@@ -1,0 +1,3 @@
+Um arquivo de texto para entrega do primeiro projeto de git
+
+Agora o arquivo foi modificado para versionamento 0.1.1
