@@ -8,6 +8,6 @@ Comandos:
 	#git tag 0.1.0
 	#git commit -a
 	#git push origin master
-	#git tag 1.1.1
+	#git tag 0.1.1
 	#git commit -a
 	#git push origin master
